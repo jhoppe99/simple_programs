@@ -26,3 +26,6 @@ if __name__ == '__main__':
 
 
 
+# nowe zmiany do testowania gita bardziej 
+
+
